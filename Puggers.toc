@@ -1,0 +1,7 @@
+## Interface: 70300
+## Title: Puggers
+## Author: Modified by Brotard based on the addon Characterlinks
+## Version: 1-Alpha
+## Notes: Provides a puggers link
+
+Puggers.lua
