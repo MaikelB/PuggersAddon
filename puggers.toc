@@ -4,4 +4,4 @@
 ## Version: 1-Alpha
 ## Notes: Provides a puggers link
 
-puggers.lua
+Puggers.lua
