@@ -171,12 +171,6 @@ function LFGListUtil_GetSearchEntryMenu(resultID)
   LFG_LIST_SEARCH_ENTRY_MENU[2].arg1 = leaderName
   LFG_LIST_SEARCH_ENTRY_MENU[2].disabled = not leaderName
   LFG_LIST_SEARCH_ENTRY_MENU[3].arg1 = leaderName
-  LFG_LIST_SEARCH_ENTRY_MENU[3].disabled = not leaderName
-  LFG_LIST_SEARCH_ENTRY_MENU[3].menuList[1].arg1 = leaderName
-  LFG_LIST_SEARCH_ENTRY_MENU[3].menuList[2].arg1 = leaderName
-  LFG_LIST_SEARCH_ENTRY_MENU[3].menuList[3].arg1 = leaderName
-  LFG_LIST_SEARCH_ENTRY_MENU[3].menuList[4].arg1 = leaderName
-  LFG_LIST_SEARCH_ENTRY_MENU[3].menuList[5].arg1 = leaderName
   LFG_LIST_SEARCH_ENTRY_MENU[4].menuList[1].arg1 = resultID
   LFG_LIST_SEARCH_ENTRY_MENU[4].menuList[2].arg1 = resultID
   LFG_LIST_SEARCH_ENTRY_MENU[4].menuList[2].disabled = (comment == "")
